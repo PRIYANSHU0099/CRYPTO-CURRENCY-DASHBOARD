@@ -42,6 +42,9 @@ To run the Crypto Dashboard locally, follow these steps:
    ```
    cd crypto-dashboard
    ```
+
+This project is built using Node.js and includes the following dependencies:
+
 - body-parser
 - ejs
 - express
@@ -51,13 +54,13 @@ To run the Crypto Dashboard locally, follow these steps:
 
 To install the dependencies and run the project, follow these steps:
 
-1. Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download and install them from the official Node.js website: [https://nodejs.org](https://nodejs.org)
+. Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download and install them from the official Node.js website: [https://nodejs.org](https://nodejs.org)
 
-2. Clone this repository to your local machine or download and extract the project files.
+. Clone this repository to your local machine or download and extract the project files.
 
-3. Open a terminal or command prompt and navigate to the project directory.
+. Open a terminal or command prompt and navigate to the project directory.
 
-4. Run the following command to install the dependencies:
+. Run the following command to install the dependencies:
 
    ```shell
    npm install
