@@ -3,6 +3,15 @@
 ## Introduction
 The Crypto Dashboard is a web application designed to provide a graphical representation of different cryptocurrencies. It offers interactive and visually appealing charts that allow users to analyze market trends and compare various currencies. This README provides an overview of the technologies and libraries used in the development of the dashboard.
 
+
+## Features
+
+- Real-time data visualization using ApexCharts library
+- Interactive charts for market price, market cap, and volume
+- Display of key cryptocurrency metrics and information
+- Responsive design for optimal viewing on different devices
+
+
 ## Technologies Used
 
 ### HTML (Hypertext Markup Language)
@@ -23,6 +32,7 @@ ApexCharts is a JavaScript library specifically designed for creating interactiv
 ## Installation
 To run the Crypto Dashboard locally, follow these steps:
 
+
 1. Clone the repository:
    ```
    git clone https://github.com/your-username/crypto-dashboard.git
@@ -32,6 +42,25 @@ To run the Crypto Dashboard locally, follow these steps:
    ```
    cd crypto-dashboard
    ```
+- body-parser
+- ejs
+- express
+- multer
+- nodemon
+- request
+
+To install the dependencies and run the project, follow these steps:
+
+1. Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download and install them from the official Node.js website: [https://nodejs.org](https://nodejs.org)
+
+2. Clone this repository to your local machine or download and extract the project files.
+
+3. Open a terminal or command prompt and navigate to the project directory.
+
+4. Run the following command to install the dependencies:
+
+   ```shell
+   npm install
 
 3. Open the `index.js` file in a web browser.
 
